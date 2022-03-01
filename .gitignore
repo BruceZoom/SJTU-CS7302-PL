@@ -1,3 +1,5 @@
+Makefile.conf
+
 .*.aux
 .*.d
 *.a
